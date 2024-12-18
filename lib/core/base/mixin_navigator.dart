@@ -1,0 +1,5 @@
+
+
+mixin NavigationPage {
+
+}
